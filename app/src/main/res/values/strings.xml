@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calcuradora</string>
+    <string name="txt_numero1">Ingresa el Primer valor</string>
+    <string name="txt_numero2">Ingresa el Segundo valor</string>
+    <string name="suma">Sumar</string>
+    <string name="resta">Restar</string>
+    <string name="producto">Multiplicar</string>
+    <string name="division">Dividir</string>
+    <string name="Button">Calcular</string>
+    <string name="txt_resultado">Resultado</string>
+    <string name="tv_Titulo">Formulario De Datos</string>
+    <string name="tv_nombre">Nombres:</string>
+    <string name="tv_apellido">Apellidos:</string>
+    <string name="tv_grado_i">Grado de Instruccion:</string>
+    <string name="tv_sexo">Sexo:</string>
+    <string name="txt_nombres">Ingresa tus nombres</string>
+    <string name="txt_apellidos">Ingresa tus Apellidos</string>
+    <string name="btn_registro">Registrar</string>
+    <string name="btn_salir">Cancelar</string>
+</resources>
